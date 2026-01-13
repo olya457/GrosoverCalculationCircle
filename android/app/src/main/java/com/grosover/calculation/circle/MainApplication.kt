@@ -1,4 +1,4 @@
-package com.grosovercalculationcircle
+package com.grosover.calculation.circle
 
 import android.app.Application
 import com.facebook.react.PackageList

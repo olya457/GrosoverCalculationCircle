@@ -1,4 +1,4 @@
-package com.grosovercalculationcircle
+package com.grosover.calculation.circle
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
